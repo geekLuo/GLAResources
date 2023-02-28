@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resource</key>
+	<string>1</string>
+	<key>corners</key>
+	<dict>
+		<key>BaseButtonCorner</key>
+		<string>4</string>
+		<key>BaseContentBackGroundCorner</key>
+		<string>7.5</string>
+		<key>BaseTextFieldCorner</key>
+		<string>4</string>
+	</dict>
+	<key>colors</key>
+	<dict>
+		<key>color_text_common</key>
+		<string>#5c4b48</string>
+		<key>color_edit</key>
+		<string>#5c4b48</string>
+		<key>color_title_text</key>
+		<string>#5c4b48</string>
+		<key>color_edit_hint</key>
+		<string>#b1a4ae</string>
+		<key>color_underline</key>
+		<string>#b1a4ae</string>
+		<key>color_base_btn_text</key>
+		<string>#9d7321</string>
+		<key>color_tip</key>
+		<string>#a40000</string>
+		<key>color_base</key>
+		<string>#9d7321</string>
+		<key>color_base_white_btn_text</key>
+		<string>#9d7321</string>
+		<key>color_privacy_policy</key>
+		<string>#5c4f59</string>
+		<key>color_privacy_tip</key>
+		<string>#a40000</string>
+		<key>color_visitor_login_text</key>
+		<string>#c0811c</string>
+		<key>color_account_login_text</key>
+		<string>#9b3e40</string>
+		<key>color_phone_login_text</key>
+		<string>#398c8a</string>
+		<key>color_quick_login_text</key>
+		<string>#8b68aa</string>
+		<key>color_account_bg</key>
+		<string>#e8e3d9</string>
+		<key>color_select_account_text</key>
+		<string>#986c3d</string>
+	</dict>
+</dict>
+</plist>
